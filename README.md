@@ -35,7 +35,7 @@ In a world where touch-based interfaces are common in public spaces, there’s a
 
 ## 📊 Key Insights
 
-- **Gesture Recognition Accuracy**: Achieved over 90% accuracy in recognizing a wide range of gestures across different environments.
+- **Gesture Recognition Accuracy**: Achieved over 94% accuracy in recognizing a wide range of gestures across different environments.
 - **Health Impact**: The model reduces contact-based interactions by over 80%, significantly lowering the risk of transmitting communicable diseases in public spaces.
 - **Accessibility Benefits**: Feedback from users with physical challenges indicated a more seamless and comfortable experience compared to traditional touch-based systems.
 
